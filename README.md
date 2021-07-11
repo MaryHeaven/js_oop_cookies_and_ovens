@@ -46,7 +46,7 @@ Excellent! You've written MVP. Now is the time to expand the program with some n
 
 ### Release 2: Refactoring
 
-[Refactoring] (https://en.wikipedia.org/wiki/Code_refactoring) is an important part of development. Take a step back and look at the code you have created. Make sure you like it and don't want to optimize anything. Do you understand OOP well? Pay attention to the following aspects:
+[Refactoring] is an important part of development. Take a step back and look at the code you have created. Make sure you like it and don't want to optimize anything. Do you understand OOP well? Pay attention to the following aspects:
 
 - Are you using more properties and functions for the object than necessary?
 - Do you repeat the same logic several times in your code? No need to repeat.
@@ -56,3 +56,4 @@ Excellent! You've written MVP. Now is the time to expand the program with some n
 Put yourself in the shoes of a baker and think about what other features you might find useful. Choose the most useful and feasible function and add it to your program.
 
 [Orthogonal]: http://stackoverflow.com/a/1527430
+[Refactoring]: https://en.wikipedia.org/wiki/Code_refactoring
